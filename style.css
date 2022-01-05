@@ -1,7 +1,9 @@
 body{
     margin:0;
     font-family: 'Poppins', sans-serif;
-
+}
+section{
+    display: flex;
 }
 
 .mission-color{
@@ -15,4 +17,14 @@ body{
     border-radius: 5px;
     color: aliceblue;
     font-weight: 700;
+}
+
+.top-align{
+    width: 50%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.top-align img {
+    width: 80%;
+    
 }
