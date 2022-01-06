@@ -7,15 +7,15 @@ section{
 }
 
 .mission-color{
-    color:yellowgreen;
+    color:#3DCFD3;
 }
 
 .click-style{
     text-decoration: none;
-    background: linear-gradient(to right,rgba(255, 0, 0, 0.774),orange);
+    background: linear-gradient(black,rgba(0, 0, 0, 0.801));
     padding:8px 25px;
     border-radius: 5px;
-    color: aliceblue;
+    color: whitesmoke;
     font-weight: 700;
 }
 
