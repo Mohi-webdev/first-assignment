@@ -2,7 +2,7 @@ body{
     margin:0;
     font-family: 'Poppins', sans-serif;
 }
-section{
+.flex-item{
     display: flex;
 }
 
@@ -27,4 +27,50 @@ section{
 .top-align img {
     width: 80%;
     
+}
+.center-align{
+    text-align: center;
+}
+
+.mission-one{
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 60px white;
+    border-radius: 10px;
+    padding-left: 10px;
+    background-color:#f65e5d;    
+}
+.mission-one img{
+    width: 100%;
+}
+
+.mission-two{
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 60px white;
+    border-radius: 10px;
+    padding-left: 10px;
+    background-color:#ffbc47;
+     
+}
+
+.mission-two img{
+    width: 100%;
+}
+
+.mission-three{
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 60px white;
+    border-radius: 10px;
+    padding-left: 10px;
+    background-color:#40cee3;
+     
+}
+
+.mission-three img{
+    width: 100%;
 }
