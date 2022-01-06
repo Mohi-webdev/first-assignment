@@ -79,3 +79,9 @@ body{
 #block-img{
     border-radius: 40px;
 }
+
+footer{
+    color: blanchedalmond;
+    text-align: center;
+    background-color:black;
+}
