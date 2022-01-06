@@ -1,9 +1,9 @@
 body{
-    margin:0;
     font-family: 'Poppins', sans-serif;
 }
 .flex-item{
     display: flex;
+    margin-bottom: 150px;
 }
 
 .mission-color{
